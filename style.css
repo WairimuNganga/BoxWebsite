@@ -1,34 +1,35 @@
-.a h1{
+.container3 p{
     text-align: center;
-    border: solid 15px goldenrod;
+    border: solid 15px rgb(201, 165, 80);
     padding:50px;
     margin: 50px 35px 15px 35px;
+    font-size: 40px;
     
 
 }
-.b{
-    border: solid 15px goldenrod;
+.container2{
+    border: solid 15px rgb(124, 113, 61);
     padding: 50px 35px 15px 35px;
     margin:40px 20px 40px 60px;
    
    
 }
-.c{
-    border: solid 15px goldenrod;
+.container1{
+    border: solid 15px rgb(236, 183, 60);
     padding: 40px 20px 40px 60px;
     
     
 
 }
 body{
-    margin:50px;
+    padding: 12px;
+   
     
 }
-header{
+h1{
     font-size: 35px;
-    font-style: inherit;
+    font-style: bold;
     text-align: center;
-    margin-bottom: 5px;
-    font-weight: bold;
-    
+    font-weight: 5px;
+    margin-top: 12px;
 }
